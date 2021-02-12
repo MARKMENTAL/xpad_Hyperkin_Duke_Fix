@@ -7,4 +7,4 @@ run the script as root user
 ```
 sudo ./hyperkin_enable.sh
 ```
-Your controller should turn on and be connected immediately.
+Your controller should turn on and be recognized immediately.
